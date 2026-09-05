@@ -14,10 +14,10 @@ function Hero() {
         AI-POWERED INDIAN STANDARDS
       </p>
 
-      <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
+      <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-white">
         Find the Right
         <span className="text-blue-400"> IS Standard </span>
-        Instantly
+        <br />Instantly
       </h1>
 
       <p className="text-gray-300 max-w-2xl mb-8 text-lg">
