@@ -31,13 +31,16 @@ function HowItWorks() {
 
         <h2
           style={{
-            fontSize: "48px",
-            margin: "20px 0",
-            lineHeight: "1.2",
+            fontSize: "36px",
+            fontWeight:"bold",
+            color:"#ffffff",
+            textAlign:"center",
+            marginBottom: "16px",
+            lineHeight: "1.3",
           }}
         >
           From Requirement to{" "}
-          <span style={{ color: "#60a5fa" }}>
+          <span style={{ color: "#38bdf8" }}>
             Standard
           </span>{" "}
           in 3 Simple Steps
