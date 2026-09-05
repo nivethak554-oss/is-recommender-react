@@ -17,7 +17,7 @@ function ProblemSection() {
           THE PROBLEM
         </p>
 
-        <h2 style={{ fontSize: "48px", margin: "20px 0" }}>
+        <h2 style={{ fontSize: "48px", margin: "20px 0",color: "#ffffff", fontWeight: "bold" }}>
           Finding the Right Indian Standard is Difficult
         </h2>
 

@@ -14,7 +14,7 @@ function Hero() {
         AI-POWERED INDIAN STANDARDS
       </p>
 
-      <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-white">
+      <h1 style={{color: "#ffffff"}} className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
         Find the Right
         <span className="text-blue-400"> IS Standard </span>
         <br />Instantly
