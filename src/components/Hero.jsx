@@ -9,23 +9,41 @@ function Hero() {
   return (
     <section
       id="home"
-      className="min-h-screen flex flex-col justify-center items-center text-center px-6 py-12"
+      style={{
+        minHeight: "80vh",
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        alignItems: "center",
+        textAlign: "center",
+        padding: "40px 20px",
+        backgroundColor: "#0f172a", // Dark navy blue background
+        color: "#ffffff"
+      }}
     >
-      <p className="text-blue-400 font-semibold mb-4 tracking-wider uppercase">
+      <p style={{ color: "#38bdf8", fontWeight: "600", letterSpacing: "1px", marginBottom: "12px", textTransform: "uppercase" }}>
         AI-Powered Indian Standards
       </p>
 
-      <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight text-white max-w-4xl">
-        Find the Right <span className="text-blue-400">IS Standard</span> Instantly
+      <h1 style={{ fontSize: "42px", fontWeight: "bold", color: "#ffffff", marginBottom: "20px", lineHeight: "1.2" }}>
+        Find the Right <span style={{ color: "#38bdf8" }}>IS Standard</span> Instantly
       </h1>
 
-      <p className="text-gray-300 max-w-2xl mb-8 text-lg">
+      <p style={{ color: "#cbd5e1", fontSize: "18px", maxWidth: "600px", marginBottom: "28px" }}>
         An AI-powered recommendation engine that helps users discover relevant Indian Standards quickly and accurately.
       </p>
 
       <button
         onClick={goToDemo}
-        className="px-6 py-3 bg-blue-500 text-white font-medium rounded-lg hover:bg-blue-600 transition-colors shadow-lg"
+        style={{
+          padding: "12px 24px",
+          backgroundColor: "#0284c7",
+          color: "#ffffff",
+          fontWeight: "bold",
+          borderRadius: "8px",
+          border: "none",
+          cursor: "pointer"
+        }}
       >
         Try Recommendation
       </button>
