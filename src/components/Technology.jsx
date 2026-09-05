@@ -31,12 +31,16 @@ function Technology() {
 
         <h2
           style={{
-            fontSize: "48px",
-            margin: "20px 0",
+            fontSize: "36px",
+            fontWeight:"bold",
+            color:"#ffffff",
+            textAlign:"center",
+            marginBottom: "16px",
+            lineHeight:"1.3"
           }}
         >
           Powered by{" "}
-          <span style={{ color: "#60a5fa" }}>
+          <span style={{ color: "#38bdf8" }}>
             AI & Intelligent Search
           </span>
         </h2>
