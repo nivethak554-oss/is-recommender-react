@@ -102,13 +102,15 @@ function DemoSection() {
 
           <h2
             style={{
-              fontSize: "48px",
-              lineHeight: "1.2",
-              margin: "0 0 18px",
+              fontSize: "36px",
+              fontWeight:"bold",
+              color:"#ffffff",
+              textAlign:"center",
+              marginBottom: "16px",
             }}
           >
-            Find the Right{" "}
-            <span style={{ color: "#60a5fa" }}>
+            Find the Right
+            <span style={{ color: "#38bdf8" }}>
               Indian Standard
             </span>
           </h2>
