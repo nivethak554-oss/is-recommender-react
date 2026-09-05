@@ -16,7 +16,7 @@ function DemoSection() {
 
     try {
       const response = await fetch(
-        `http://127.0.0.1:8000/recommend?requirement=${encodeURIComponent(
+        ` https://is-recommender-react.onrender.com/recommend?requirement=${encodeURIComponent(
           input
         )}`,
         {
