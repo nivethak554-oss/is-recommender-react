@@ -1,0 +1,88 @@
+[
+  {
+    "standard": "IS 2062",
+    "title": "Hot Rolled Medium and High Tensile Structural Steel",
+    "keywords": [
+      "structural steel",
+      "hot rolled steel",
+      "medium tensile steel",
+      "high tensile steel",
+      "steel plates",
+      "steel sections",
+      "construction steel"
+    ],
+    "category": "Structural Engineering"
+  },
+  {
+    "standard": "IS 456",
+    "title": "Plain and Reinforced Concrete - Code of Practice",
+    "keywords": [
+      "concrete",
+      "reinforced concrete",
+      "RCC",
+      "concrete construction",
+      "cement concrete"
+    ],
+    "category": "Civil Engineering"
+  },
+  {
+    "standard": "IS 800",
+    "title": "General Construction in Steel - Code of Practice",
+    "keywords": [
+      "steel structure design",
+      "steel design",
+      "structural design",
+      "steel building design",
+      "design of steel structures"
+    ],
+    "category": "Structural Engineering"
+  },
+  {
+    "standard": "IS 10262",
+    "title": "Concrete Mix Proportioning - Guidelines",
+    "keywords": [
+      "concrete mix",
+      "mix design",
+      "cement mix",
+      "aggregate",
+      "concrete proportion"
+    ],
+    "category": "Concrete Technology"
+  },
+  {
+    "standard": "IS 1786",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement",
+    "keywords": [
+      "reinforcement",
+      "steel bars",
+      "TMT bars",
+      "rebar",
+      "reinforcement bars"
+    ],
+    "category": "Structural Engineering"
+  },
+  {
+    "standard": "IS 875",
+    "title": "Design Loads for Buildings and Structures",
+    "keywords": [
+      "building loads",
+      "dead load",
+      "live load",
+      "wind load",
+      "structural loads"
+    ],
+    "category": "Structural Engineering"
+  },
+  {
+    "standard": "IS 1893",
+    "title": "Criteria for Earthquake Resistant Design of Structures",
+    "keywords": [
+      "earthquake",
+      "seismic",
+      "earthquake resistant",
+      "seismic design",
+      "earthquake resistant building"
+    ],
+    "category": "Structural Engineering"
+  }
+]
