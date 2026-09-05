@@ -109,7 +109,7 @@ function DemoSection() {
               marginBottom: "16px",
             }}
           >
-            Find the Right
+            Find the Right{" "}
             <span style={{ color: "#38bdf8" }}>
               Indian Standard
             </span>
